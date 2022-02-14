@@ -1,7 +1,5 @@
 # Hi there, welcome to Vinicius' profile. 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciuscosta110&color=yellow" alt="Profile views"/> </p>
-
 ## About me
 - Computer engineering student at UFAL (Federal University of Alagoas)
 - Web and mobile developer with notions in UI/UX
