@@ -4,7 +4,7 @@
 - Computer engineering student at UFAL (Federal University of Alagoas)
 - Web and mobile developer with notions in UI/UX
 - I know a bit of video edition and do some posts for Instagram
-- Currently, I'm studying game development and also keep improving what I know
+- Currently, I'm increasing my knowledge with ReactJS and also keep improving in other things that I know
 
 ## Abilities (Just a resume)
 ### Web and mobile
