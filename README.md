@@ -1,9 +1,9 @@
 # Hi there, welcome to Vinicius' profile. 👋
 
 ## About me
-- Computer engineering student at UFAL (Federal University of Alagoas)
+- Science engineering student at UFAL (Federal University of Alagoas)
 - Web and mobile developer with notions in UI/UX
-- I know a bit of video edition and do some posts for Instagram
+- I know a bit of video edition and did some posts for Instagram
 - Currently, I'm increasing my knowledge with ReactJS and also keep improving in other things that I know
 
 ## Abilities (Just a resume)
@@ -16,8 +16,6 @@
 ### Design related
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>  <img alt="Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
 
-
-<p> <strong>I'm also studying pixel art.<strong/> <p/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosta110&layout=compact)](https://github.com/viniciuscosta110/github-readme-stats)
 
