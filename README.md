@@ -1,7 +1,7 @@
 # Hi there, welcome to Vinicius' profile. 👋
 
 ## About me
-- Science engineering student at UFAL (Federal University of Alagoas)
+- Computer Science student at UFAL (Federal University of Alagoas)
 - Web and mobile developer with notions in UI/UX
 - I know a bit of video edition and did some posts for Instagram
 - Currently, I'm increasing my knowledge with ReactJS and also keep improving in other things that I know
