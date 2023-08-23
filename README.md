@@ -3,12 +3,13 @@
 ## About me
 - Computer Science student at UFAL (Federal University of Alagoas)
 - Web and mobile developer with notions in UI/UX
+- Solid base of backend development
 - I know a bit of video edition and did some posts for Instagram
-- Currently, I'm increasing my knowledge with ReactJS and also keep improving in other things that I know
+- Currently, I'm increasing my knowledge with NextJS and NodeJS and also keep improving in other things that I know
 
 ## Abilities (Just a resume)
 ### Web and mobile
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
 
 ### Games related
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/> <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -19,8 +20,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscosta110&layout=compact)](https://github.com/viniciuscosta110/github-readme-stats)
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuscosta110)](https://github.com/viniciuscosta110/github-readme-stats)
-
+-->
 
 <!--
 **viniciuscosta110/viniciuscosta110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
